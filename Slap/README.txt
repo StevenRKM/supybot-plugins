@@ -1,14 +1,3 @@
-supybot-plugins
-===============
-
-Some little plugins for IRC bot Supybot
-http://sourceforge.net/projects/supybot/
-
-Eightball: 
-
-command: eightball <question>
-- output: an official eightball answer
-
 Slap: 
 
 command: slap <target>
